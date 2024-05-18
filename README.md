@@ -6,6 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### must you know
+1. Project ini menggunkan ReactJs sebagai sisi frontend
+2. Project ini menggunkan versi 18 dari ReactJs
+
+### Requires 
+1. Silahkan melakukan clone melalui link github ini
+2. Sebelum menjalankan silahkan pastikan node_modules versi 14 keatas sudah terinstall di perangkat anda dan lebih baik menggunkan node modules yang tidak terlalu jauh dari versi 20
+3. Silahkan masuk ke direktori hasil clone tadi dan lakukan perintah "npm install"
+4. Setelah semua terpenuhi silahkan jalankan perintah npm start dan tidak lupa untuk sisi backend sudah dijalankan
+
 ### `npm start`
 
 Runs the app in the development mode.\
